@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 97958646, "ad_street": null, "addr_numbr": null, "amenity": "fuel", "name": "Intermarché", "operator": "Groupement des Mousquetaires", "brand": null, "ref": null, "opening_hours": "24\/7", "building": "yes", "osm_user": "", "osm_modif": null, "tags": "\"wall\"=>\"no\", \"vending\"=>\"fuel\", \"fuel:e10\"=>\"yes\", \"hgv:lanes\"=>\"yes\", \"description\"=>\"Pompe haut débit pour camions\", \"fuel:diesel\"=>\"yes\", \"fuel:octane_95\"=>\"yes\", \"fuel:octane_98\"=>\"yes\", \"vending_machine\"=>\"fuel\", \"ref:FR:prix-carburants\"=>\"34830001\"", "metro_id": 1 }, "geometry": { "type": "Point", "coordinates": [ 3.903703441039555, 43.659747807169339 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2147483647, "ad_street": null, "addr_numbr": null, "amenity": "bank", "brand": "Crédit Agricole", "fee": null, "name": "Crédit Agricole", "wheelchair": "yes", "operator": "Crédit Agricole", "operator_type": null, "drive_through": null, "capacity": null, "network": null, "building": null, "osm_user": "", "osm_modif": null, "tags": "\"atm\"=>\"yes\", \"brand:wikidata\"=>\"Q590952\", \"brand:wikipedia\"=>\"fr:Crédit agricole\"", "metro_id": 1 }, "geometry": { "type": "Point", "coordinates": [ 3.882071546926868, 43.652247181728839 ] } }
+]
+}

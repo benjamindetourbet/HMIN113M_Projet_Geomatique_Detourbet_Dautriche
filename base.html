@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v6.0.1/css/ol.css"/>
+    <style>
+      .map, .infos { height: 600px; width: 100%; }
+    </style>
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v6.0.1/build/ol.js"></script>
+    <title>OpenLayers avec serveur Flask et GeoJSON</title>
+  </head>
+
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript" src="http://localhost:5000/client_ol.js"></script>
+
+    <h2> Lien vers des points d'intérêt </h2>
+    <p><a href="client_banques.html">Banques</a></p>
+    <p><a href="client_restaurants.html">Restaurants</a></p>
+    <p><a href="client_service.html">Stations service</a></p>
+  </body>
+</html>
